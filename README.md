@@ -1,2 +1,2 @@
 # inika-spark
-Réparation des composants éléctroniques, trottinettes électriques, conception robotique et autres dispositifs high-tech
+Réparation des composants éléctroniques, trottinettes électriques et autres dispositifs high-tech, conception robotique 
